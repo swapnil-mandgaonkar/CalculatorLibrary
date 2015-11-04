@@ -1,0 +1,5 @@
+E:\Study\C#\NugetDemo\CalcLibrary\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+E:\Study\C#\NugetDemo\CalcLibrary\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+E:\Study\C#\NugetDemo\CalcLibrary\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.csprojResolveAssemblyReference.cache
+E:\Study\C#\NugetDemo\CalcLibrary\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+E:\Study\C#\NugetDemo\CalcLibrary\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb
